@@ -1,10 +1,10 @@
-# Hello, I'm Yassir !
- ![](https://github.com/StrawRabbit/rabbit.gif)
+# Hello, I'm Yassir ! 🐰
 
 ## I am a Junior Fullstack Developer
 
 ## What I know
 
+<div>
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
+</div>
 
 <!--
 **StrawRabbit/StrawRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
