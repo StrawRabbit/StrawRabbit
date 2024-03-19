@@ -1,7 +1,10 @@
 # Hello, I'm Yassir ! 🐰
-I am a Junior Fullstack Developer
 
-## What I know
+## About me
+Freshly graduated from LeWagon's Web Development bootcamp, I am now seeking a
+career as a Junior Fullstack Developer. I am mainly interested in a job that
+that would offer me an opportunity to grow and learn among senior developers.
+## Tech skills
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,sass,mysql,heroku,git)](https://skillicons.dev)
 <!--
